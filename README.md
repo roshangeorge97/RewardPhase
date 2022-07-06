@@ -1,7 +1,7 @@
 # RewardPhase
 A Platform which rewards users for playing recommended games, sharing certain Affliate Links listed in the site.
 
-### The Site is still under Development, It aims to provide lag free Details about what games to be played and till when?###
+### The Site is still under Development, It aims to provide lag free Details about what games to be played and till when?
 
 > our aim
 *this project aims to help teens and mobile-gamers who cannot afford in-game purchases.*
