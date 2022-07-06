@@ -1,0 +1,19 @@
+{
+  "name": "rewardphase",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Rewardphase.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roshangeroge/rewardphase.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/roshangeroge/rewardphase/issues"
+  },
+  "homepage": "https://github.com/roshangeroge/rewardphase#readme"
+}
