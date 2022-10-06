@@ -1,0 +1,148 @@
+.header{
+    display: flex;
+    justify-content: center;
+    margin-top: 0%;
+    background-color: #FECD45;
+
+}
+.logo h2{
+    margin-top: 0%;
+    margin-bottom: 0%;
+    font-family: 'Gloria Hallelujah';
+}
+.logo .h2{
+    font-size: 29px;
+}
+.sub{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #FECD45;
+
+}
+.para{
+  font-weight: bold;
+  font-size: 25px;
+}
+.para2{
+    font-style: italic;
+    font-size: 20px;
+    font-weight: lighter;
+}
+
+body{
+    background-color:#FECD45 ;
+    overflow-x: hidden;
+}
+.line{
+    margin-top: 0%;
+    width: 100%;
+}
+.link{
+    padding: 10px;
+    background-color:#2568fb ;
+    color: #000000;
+    border-radius: 30px;
+    text-decoration: none;
+}
+.form{
+    position: absolute;
+    top: 31%;
+    left: 33%;
+    font-family: 'Bubblegum Sans';
+    font-size: 30px;
+    z-index: 0;
+}
+.mobno{
+    margin-top: 15px;
+}
+.email{
+    margin-top: 15px;
+}
+.submit{
+    margin-top: 25px;
+}
+.name1{
+    margin-left: 69px;
+    height: 30px;
+    width: 250px;
+}
+.mobno1{
+    margin-left: 20px;
+    height:30px;
+    width: 250px;
+}
+.email1{
+    margin-left: 72px;
+    height: 30px;
+    width: 250px;
+}
+.submit{
+    border-radius: 30px;
+    background-color:#FECD45;
+    color: #000000;
+    border-color: #000000;
+    font-family: 'Bubblegum Sans';
+    font-size: 22px;
+    position: relative;
+    left: 31%;
+    width: 150px;
+}
+.form1{
+    margin: 20px;
+    border: 2px solid black;
+    padding: 25px;
+    z-index: 0;
+    box-shadow: 1px 1px 1px 1px black;
+}
+.imgauth{
+    position: absolute;
+    left: 60%;
+    z-index: -1;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 40%;
+    flex-basis: 50% 50%;
+}
+.box1{
+    margin: 1%;
+    border: 1px solid black;
+}
+.box2{
+    margin: 1%;
+    border: 1px solid black;
+}
+.dailytable{
+    border: 2px solid rgb(0, 0, 0);
+    border-collapse: collapse;
+    width: 100%;
+    height: auto;
+}
+.container1{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    height: 40%;
+}
+.pack1{
+    padding-bottom: 30%;
+    padding-top: 30%;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin: 1%;
+    border: 1px solid black;
+}
+.pack2{
+    padding-bottom: 30%;
+    padding-top: 30%;
+    padding-left: 40%;
+    padding-right: 40%;
+    margin: 1%;
+    border: 1px solid black;
+}
+
+
+
